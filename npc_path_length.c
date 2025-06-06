@@ -1,6 +1,6 @@
 /**
  * @file path_analyzer.c
- * @author (Nama Anda)
+ * @author Hanif Nur Ilham Sanjaya
  * @brief Menganalisis konvergensi panjang lintasan NPC menggunakan Aturan Simpson.
  * @version 2.0
  * @date 2025-06-07
