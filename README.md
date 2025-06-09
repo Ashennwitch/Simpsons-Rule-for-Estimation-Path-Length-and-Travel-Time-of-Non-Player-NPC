@@ -34,16 +34,16 @@ Karena integral ini kompleks untuk diselesaikan secara analitis, maka pendekatan
 
 ### Cara Menggunakan Program
 
-1.  **Simpan Kode:** Simpan kode sumber dengan nama `path_calculator.c`.
+1.  **Simpan Kode:** Simpan kode sumber dengan nama `npc_path_length.c`.
 
 2.  **Kompilasi:** Buka terminal atau command prompt, lalu kompilasi file menggunakan GCC. Flag `-lm` diperlukan untuk me-link pustaka matematika (`math.h`).
     ```bash
-    gcc path_calculator.c -o path_calculator -lm
+    gcc npc_path_length.c -o npc_path_length -lm
     ```
 
 3.  **Jalankan:** Eksekusi file hasil kompilasi.
     ```bash
-    ./path_calculator
+    ./npc_path_length
     ```
 
 4.  **Masukkan Input:** Program akan meminta Anda untuk memasukkan:
